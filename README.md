@@ -1,5 +1,9 @@
-# Vue 3 + Vite
+# Simple Tailwind Theme for Typo3
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project was created with `npm init vite simple-tailwind-site-vue` (choosing Vue and vanilla JavaScript) and `npm install`.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Work with it by checking it out and running `npm install` plus `npm run dev`.
+
+## Todos
+
+- streamline the HTML structure in the About/Blog/Docs/Changelog components, so it's easy to make separate components for the content elements in Typo3 later
